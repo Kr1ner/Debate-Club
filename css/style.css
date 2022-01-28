@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: 'alk_life';
+    src: url('../fonts/alk_life.otf');
+}
+
+body{
+    background-color: #6B00C8;
+}
