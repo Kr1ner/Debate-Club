@@ -5,10 +5,10 @@ const mongoose = require("mongoose");
 const authRoute = require("./routes/auth0");
 const userRoute = require("./routes/users");
 import React from 'react';
-import React from 'react-dom';
-import Page from '../frontend/Page';
+import ReactDOM from 'react-dom';
+import Page from '../frontend/Page.js';
 
-ReactDOM.render(<Page />,document.getElementById())
+ReactDOM.render(Page,document.getElementById("container"));
 
 dotenv.config();
 app.use(express.json());

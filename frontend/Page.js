@@ -1,10 +1,10 @@
 import React from 'react';
-import React from 'react-dom';
+import ReactDOM from 'react-dom';
 
 function header(){
     return (
         <div>
-            <h1>Depsacito Epicuri</h1>
+            <h1>richard zanguri</h1>    
         </div>
     )
 }

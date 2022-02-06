@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Kr1ner/Debate-Club.git"
   },
+  "type": "module",
   "author": "",
   "license": "ISC",
   "bugs": {
